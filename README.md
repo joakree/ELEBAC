@@ -1,16 +1,13 @@
 # ELEBAC
-
-Prototype Branch:
-This branch contrains the prototype firmware for the following prototypes:
-Thermocouple sensor node
-Strain Gauge sensor node 
+Prototypes
+Thermocouple_2 is the prototype code for the thermocouple sensor node
 
 
-Final PCB Branch:
-This branch contrains the firmware for final implementation (This is not yet completed due to lack of PCBs for testing and verifying):
-Thermocouple sensor node
-Strain Gauge sensor node
-Sensor central
+
+
+Final PCB Branch (Not completed due to lack of hardware to test):
+thermocouple_pcb is the code for the thermocouple pcb
+
 
 
 Camera System Branch:
