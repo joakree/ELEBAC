@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PI5_IP="192.168.3.1"
+PI5_IP="192.168.3.1"  ## Change to correct IP
 INTERFACE="usb0"
 
 FAIL_COUNT=0
