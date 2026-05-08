@@ -1,7 +1,7 @@
 # Camerasystem
 Camerasystem for UiS Aerospace phoenix 2
 
-System consists of:
+System currently consists of:
  - 3 Cameranodes based on RPI Zero 2W
  - 1 Cameracentral RPI 5B
 
