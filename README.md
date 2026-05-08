@@ -1,16 +1,20 @@
-# ELEBAC
-Prototype firmware
+ELEBAC
+Firmware for the ELEBAC thermocouple sensor node, covering both prototype development and final PCB implementation.
 
+Repository Structure
+```
+ELEBAC/
+├── Thermocouple_2/        # Prototype firmware
+└── Thermocouple_pcb/      # Final PCB firmware
+```
 
-Thermocouple_2 is the prototype code for the thermocouple sensor node
+Prototype Firmware
+Directory: Thermocouple_2/
+Prototype code for the thermocouple sensor node. Used for development and testing during the prototyping phase.
 
+Final PCB Firmware
+Directory: Thermocouple_pcb/
 
+Status: Incomplete — Development halted due to lack of hardware availability for testing.
 
-
-Final PCB firmware (Not completed due to lack of hardware to test):
-
-Thermocouple_pcb is the code for the thermocouple pcb
-
-
-
-
+Firmware intended for the final thermocouple PCB design. Not yet verified or tested on physical hardware.
