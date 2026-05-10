@@ -14,6 +14,8 @@ Complete firmware for the camera system. Tested and verified.
 
 Prototype Firmware
 Prototype code for the thermocouple sensor and thermocouple node. Used for development and testing during the prototyping phase.
+
+Prototype Firmware 
 Prototype code for the strain gauge sensor. Used for development and testing during the prototype phase. 
 
 Final PCB Firmware
