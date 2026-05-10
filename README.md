@@ -9,9 +9,12 @@ ELEBAC/
 ├── Straingauge_prototype/        # Prototype firmware
 └── Thermocouple_pcb/      # Final PCB firmware (Not complete or tested)
 ```
+Camera system Firmware 
+Complete firmware for the camera system. Tested and verified. 
 
 Prototype Firmware
 Prototype code for the thermocouple sensor and thermocouple node. Used for development and testing during the prototyping phase.
+Prototype code for the strain gauge sensor. Used for development and testing during the prototype phase. 
 
 Final PCB Firmware
 Incomplete — Due to lack of hardware this is not finished.
