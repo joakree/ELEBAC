@@ -1,5 +1,6 @@
 ELEBAC
-Firmware for sensor and camera system.
+
+Firmware and hardware files for sensor and camera system.
 
 Repository Structure
 ```
