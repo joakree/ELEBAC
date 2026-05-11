@@ -7,7 +7,8 @@ ELEBAC/
 ├── Camerasystem/        # Firmware for the camera system
 ├── Thermocouple_prototype/        # Prototype firmware
 ├── StrainGauge/        # Prototype firmware with results from testing
-├── sensorcentral/        # Altium designs of the Sensorcentral PCB 
+├── sensorcentral/        # Altium designs of the Sensorcentral PCB
+├── strain node PCB design/        # Altium designs of the Strain Gauge node PCB
 └── Thermocouple_pcb/      # Final PCB firmware (Not complete or tested)
 ```
 Camera system Firmware 
