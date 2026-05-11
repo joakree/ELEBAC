@@ -6,7 +6,7 @@ Repository Structure
 ELEBAC/
 ├── Camerasystem/        # Firmware for the camera system
 ├── Thermocouple_prototype/        # Prototype firmware
-├── Straingauge_prototype/        # Prototype firmware
+├── StrainGauge/        # Prototype firmware with results from testing
 └── Thermocouple_pcb/      # Final PCB firmware (Not complete or tested)
 ```
 Camera system Firmware 
