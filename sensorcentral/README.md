@@ -8,5 +8,5 @@ Files
 .BomDoc       # Bill of material document 
 .PcbDoc      # PCB design document
 .OutJob     # Outputs for the PCB file
-.SensorCentral.zip      # Zip file containing all the required files   
 ```
+SensorCentral.zip     Zip file containing all the required files   
