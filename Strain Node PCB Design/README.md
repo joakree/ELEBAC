@@ -10,3 +10,5 @@ Files
 .OutJob     # Outputs for the PCB file
 ```
 strainnode.zip     Zip file containing all the required files   
+
+To download .zip file, click "View raw" and it will begin downloading immediately 
