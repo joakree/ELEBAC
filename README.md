@@ -6,6 +6,10 @@ Repository Structure
 ```
 ELEBAC/
 ├── Camerasystem/        # Firmware for the camera system
+├── Sensor System PCB design #Altium design of the strain gauge and thermocouple node PCB, and the sensor central PCB
+├── Sensorsystem/        #Firmware for the sensor system
+├────── Sensor centra  
+
 ├── Sensor Central PCB Design/        # Altium design of the Sensor Central PCB
 ├── Strain Node PCB Design/        # Altium designs of the Strain Gauge node PCB
 ├── StrainGauge/        # Prototype firmware with results from testing
