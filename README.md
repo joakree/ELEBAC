@@ -1,8 +1,8 @@
-# ELEBAC
+ELEBAC
 
 Firmware and hardware files for the sensor and camera system developed for the Phoenix 2 rocket within UiS Aerospace.
 
-## Repository Structure
+Repository Structure
 
 ```text
 ELEBAC/
