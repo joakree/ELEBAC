@@ -1,0 +1,14 @@
+This folder contains the schematics and PCB design for the Strain Gauge nodes.
+
+Required software: Altium Designer
+
+Files
+```
+.SchDoc       # Schematic documents for the project
+.BomDoc       # Bill of material document 
+.PcbDoc      # PCB design document
+.OutJob     # Outputs for the PCB file
+```
+strainnode.zip     Zip file containing all the required files   
+
+To download .zip file, click "View raw" and it will begin downloading immediately 
