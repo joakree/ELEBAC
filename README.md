@@ -1,31 +1,28 @@
 ELEBAC
 
-Firmware and hardware files for sensor and camera system.
+Firmware and hardware files for the sensor and camera system developed for the Phoenix 2 rocket within UiS Aerospace.
 
 Repository Structure
-```
+
+```text
 ELEBAC/
-├── Camerasystem/        # Firmware for the camera system
-├── Sensor System PCB design #Altium design of the strain gauge and thermocouple node PCB, and the sensor central PCB
-├── Sensorsystem/        #Firmware for the sensor system
-├────── Sensor centra  
+├── Camerasystem/             
+│   └── Firmware for the camera system
+│
+├── Sensor_System_PCB_Design/ 
+│   └── Altium schematic and PCB design files for:
+│       - Sensor Central PCB
+│       - Strain Gauge Node
+│       - Thermocouple Node
+│
+├── Sensorsystem/
+│   ├── Strain_Gauge/
+│   │   └── Prototype firmware and test results
+│   │
+│   ├── Thermocouple_Prototype/
+│   │   └── Prototype firmware for development and testing
+│   │
+│   └── Thermocouple_PCB/
+│       └── Firmware for the final PCB design. Not yet tested or verified on physical hardware
 
-├── Sensor Central PCB Design/        # Altium design of the Sensor Central PCB
-├── Strain Node PCB Design/        # Altium designs of the Strain Gauge node PCB
-├── StrainGauge/        # Prototype firmware with results from testing
-├── Thermocouple PCB design/        # Altium designs of the Thermocouple node PCB
-├── Thermocouple_pcb/      # Final PCB firmware (Not complete or tested)
-└── Thermocouple_2/        # Prototype firmware
-``` 
-Camera system Firmware 
-Complete firmware for the camera system. Tested and verified. 
 
-Prototype Firmware
-Prototype code for the thermocouple sensor and thermocouple node. Used for development and testing during the prototyping phase.
-
-Prototype Firmware 
-Prototype code for the strain gauge sensor. Used for development and testing during the prototype phase. 
-
-Final PCB Firmware
-Incomplete — Due to lack of hardware this is not finished.
-Firmware intended for the final thermocouple PCB design. Not yet verified or tested on physical hardware.
