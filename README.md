@@ -41,5 +41,5 @@ ELEBAC/
 - CSV files contain logged test data used for analysis and plotting.
 
 
-
+Some folders contain additional README files with more detailed information about required software, setup, and usage.
 
