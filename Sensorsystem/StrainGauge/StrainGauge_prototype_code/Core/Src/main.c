@@ -134,7 +134,7 @@ float HX711_GetStrain(uint8_t times)
     int32_t diff = raw - hx711_offset;
 
     float adc_ratio = (float)diff / 8388608.0f;
-    float bridge_ratio = adc_ratio / 128.0f;
+    float bridge_ratio = adc_ratio / 256.0f; // Divide by 256 for 3v3 exc. voltage
 
     float strain = (4.0f * bridge_ratio) / gauge_factor;
 
